@@ -1,0 +1,228 @@
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.SuggestedBindingRedirects.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\App.g.cs
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.SuggestedBindingRedirects.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\App.g.cs
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.dll
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.xml
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\App.g.cs
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CopyComplete
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\bin\Debug\OxyPlot.dll
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\bin\Debug\OxyPlot.xml
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\PlotWindow.g.cs
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\App.g.cs
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\PlotWindow.baml
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CopyComplete
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+C:\Users\mawun\Downloads\Advanced-Programming-Project-main(2)\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.SuggestedBindingRedirects.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\PlotWindow.g.cs
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\App.g.cs
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.dll
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.dll
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.dll
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.xml
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.xml
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.xml
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\PlotWindow.baml
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+N:\Uni Work\Advanced Programming\Maths Software with Interpreter New\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CopyComplete
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.xml
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.dll
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.dll
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.dll
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.dll
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.xml
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.xml
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.xml
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.xml
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.SuggestedBindingRedirects.cache
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\App.g.cs
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CopyComplete
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+N:\Uni Work\Maths Software with Interpreter New\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.dll
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.xml
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\App.g.cs
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CopyComplete
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+C:\Users\Thomas\OneDrive\Documents\GitHub\Advanced-Programming-Project\Advanced-Programming-Project\Maths Software with Interpreter\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\OxyPlot.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\OxyPlot.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\App.g.cs
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CopyComplete
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 4\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\OxyPlot.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\OxyPlot.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\App.g.cs
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CopyComplete
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Main 5\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe.config
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.exe
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\Maths Software with Interpreter.pdb
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\OxyPlot.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\OxyPlot.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.AssemblyReference.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\MainWindow.g.cs
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\App.g.cs
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter_MarkupCompile.lref
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\MainWindow.baml
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.g.resources
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths_Software_with_Interpreter.Properties.Resources.resources
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.GenerateResource.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.csproj.CopyComplete
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.exe
+C:\Users\mawun\OneDrive\Documents\Advanced Programming Coursework\Final Main 2\Maths Software with Interpreter\obj\Debug\Maths Software with Interpreter.pdb
